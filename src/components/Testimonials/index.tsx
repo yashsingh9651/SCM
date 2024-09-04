@@ -5,32 +5,33 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "Emily Johnson",
+    designation: "Principal",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "This software has revolutionized our classroom management. It’s user-friendly and incredibly effective.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "James Lee",
+    designation: "IT Director",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "An invaluable tool for modern education. The resource management and analytics are superb.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "Laura Davis",
+    designation: "Head of IT",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Our students are more engaged, and safety has improved significantly. Highly recommend!",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
 ];
+
 
 const Testimonials = () => {
   return (
@@ -38,7 +39,7 @@ const Testimonials = () => {
       <div className="container">
         <SectionTitle
           title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Our users have experienced significant improvements in classroom management and student engagement. Read their feedback on how our software has transformed their educational environments."
           center
         />
 
