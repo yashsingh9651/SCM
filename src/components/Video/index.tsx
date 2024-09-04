@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Why Choose Us?"
+          paragraph="Our Smart Classroom Management Software is designed to streamline classroom operations and improve educational outcomes. With a focus on innovation and user-friendly interfaces, we aim to provide a solution that is both powerful and easy to use. Experience the future of classroom management today with Smart Classroom Solutions."
           center
           mb="80px"
         />
