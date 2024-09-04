@@ -1,0 +1,50 @@
+{"Course_ID":1,"Course_Name":"Data Structures and Algorithms","Department_ID":1,"Credits":3,"Semester":3}
+{"Course_ID":2,"Course_Name":"Operating Systems","Department_ID":1,"Credits":3,"Semester":6}
+{"Course_ID":3,"Course_Name":"Computer Networks","Department_ID":1,"Credits":4,"Semester":4}
+{"Course_ID":4,"Course_Name":"Database Management Systems","Department_ID":1,"Credits":3,"Semester":3}
+{"Course_ID":5,"Course_Name":"Machine Learning","Department_ID":1,"Credits":3,"Semester":3}
+{"Course_ID":6,"Course_Name":"Artificial Intelligence","Department_ID":1,"Credits":3,"Semester":5}
+{"Course_ID":7,"Course_Name":"Software Engineering","Department_ID":1,"Credits":2,"Semester":5}
+{"Course_ID":8,"Course_Name":"Cyber Security","Department_ID":1,"Credits":4,"Semester":4}
+{"Course_ID":9,"Course_Name":"Cloud Computing","Department_ID":1,"Credits":2,"Semester":8}
+{"Course_ID":10,"Course_Name":"Distributed Systems","Department_ID":1,"Credits":2,"Semester":7}
+{"Course_ID":11,"Course_Name":"Thermodynamics","Department_ID":2,"Credits":3,"Semester":3}
+{"Course_ID":12,"Course_Name":"Fluid Mechanics","Department_ID":2,"Credits":3,"Semester":7}
+{"Course_ID":13,"Course_Name":"Strength of Materials","Department_ID":2,"Credits":4,"Semester":4}
+{"Course_ID":14,"Course_Name":"Manufacturing Processes","Department_ID":2,"Credits":2,"Semester":6}
+{"Course_ID":15,"Course_Name":"Heat Transfer","Department_ID":2,"Credits":2,"Semester":7}
+{"Course_ID":16,"Course_Name":"Machine Design","Department_ID":2,"Credits":2,"Semester":6}
+{"Course_ID":17,"Course_Name":"Automobile Engineering","Department_ID":2,"Credits":3,"Semester":6}
+{"Course_ID":18,"Course_Name":"Robotics","Department_ID":2,"Credits":2,"Semester":8}
+{"Course_ID":19,"Course_Name":"CAD\/CAM","Department_ID":2,"Credits":2,"Semester":8}
+{"Course_ID":20,"Course_Name":"Engineering Mechanics","Department_ID":2,"Credits":4,"Semester":7}
+{"Course_ID":21,"Course_Name":"Circuit Theory","Department_ID":3,"Credits":2,"Semester":3}
+{"Course_ID":22,"Course_Name":"Electromagnetic Fields","Department_ID":3,"Credits":3,"Semester":6}
+{"Course_ID":23,"Course_Name":"Control Systems","Department_ID":3,"Credits":3,"Semester":8}
+{"Course_ID":24,"Course_Name":"Power Electronics","Department_ID":3,"Credits":4,"Semester":5}
+{"Course_ID":25,"Course_Name":"Electrical Machines","Department_ID":3,"Credits":3,"Semester":2}
+{"Course_ID":26,"Course_Name":"Power Systems","Department_ID":3,"Credits":4,"Semester":1}
+{"Course_ID":27,"Course_Name":"Digital Electronics","Department_ID":3,"Credits":3,"Semester":8}
+{"Course_ID":28,"Course_Name":"Microprocessors","Department_ID":3,"Credits":4,"Semester":3}
+{"Course_ID":29,"Course_Name":"Signal Processing","Department_ID":3,"Credits":4,"Semester":7}
+{"Course_ID":30,"Course_Name":"Renewable Energy Systems","Department_ID":3,"Credits":2,"Semester":8}
+{"Course_ID":31,"Course_Name":"Structural Analysis","Department_ID":4,"Credits":3,"Semester":8}
+{"Course_ID":32,"Course_Name":"Construction Materials","Department_ID":4,"Credits":3,"Semester":1}
+{"Course_ID":33,"Course_Name":"Geotechnical Engineering","Department_ID":4,"Credits":2,"Semester":3}
+{"Course_ID":34,"Course_Name":"Surveying","Department_ID":4,"Credits":4,"Semester":1}
+{"Course_ID":35,"Course_Name":"Hydraulics","Department_ID":4,"Credits":2,"Semester":3}
+{"Course_ID":36,"Course_Name":"Transportation Engineering","Department_ID":4,"Credits":2,"Semester":3}
+{"Course_ID":37,"Course_Name":"Environmental Engineering","Department_ID":4,"Credits":3,"Semester":2}
+{"Course_ID":38,"Course_Name":"Concrete Technology","Department_ID":4,"Credits":4,"Semester":8}
+{"Course_ID":39,"Course_Name":"Urban Planning","Department_ID":4,"Credits":2,"Semester":1}
+{"Course_ID":40,"Course_Name":"Steel Structures","Department_ID":4,"Credits":3,"Semester":8}
+{"Course_ID":41,"Course_Name":"Introduction to Psychology","Department_ID":5,"Credits":3,"Semester":7}
+{"Course_ID":42,"Course_Name":"Sociology of Gender","Department_ID":5,"Credits":2,"Semester":7}
+{"Course_ID":43,"Course_Name":"Philosophy of Ethics","Department_ID":5,"Credits":4,"Semester":3}
+{"Course_ID":44,"Course_Name":"World History","Department_ID":5,"Credits":4,"Semester":1}
+{"Course_ID":45,"Course_Name":"Political Science","Department_ID":5,"Credits":4,"Semester":1}
+{"Course_ID":46,"Course_Name":"Art History","Department_ID":5,"Credits":4,"Semester":8}
+{"Course_ID":47,"Course_Name":"Creative Writing","Department_ID":5,"Credits":3,"Semester":6}
+{"Course_ID":48,"Course_Name":"Cultural Anthropology","Department_ID":5,"Credits":3,"Semester":7}
+{"Course_ID":49,"Course_Name":"Economics for Social Sciences","Department_ID":5,"Credits":3,"Semester":7}
+{"Course_ID":50,"Course_Name":"Mass Communication","Department_ID":5,"Credits":4,"Semester":6}
